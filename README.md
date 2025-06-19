@@ -57,7 +57,7 @@ These are downloaded automatically the first time you run David AI.
 ### 🔹 Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/david_ai
+git clone https://github.com/david0154/David-zero-ai
 cd david_ai
 ```
 
