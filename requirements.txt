@@ -1,0 +1,23 @@
+# Core AI and model support
+torch>=2.0.0
+transformers>=4.36.0
+datasets
+accelerate
+sentencepiece
+
+# Voice output (offline)
+pyttsx3
+
+# Local file handling
+sounddevice
+numpy
+
+# Arya framework (your custom framework)
+-e ./arya_core  # assumes Arya is cloned locally in arya_core/
+
+# For training
+scikit-learn
+matplotlib
+
+# Optional (for downloading + testing web UI later)
+gradio
