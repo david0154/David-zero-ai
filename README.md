@@ -233,7 +233,7 @@ Zero David will:
 
 Need to run David AI on a low-end PC or laptop?
 
-👉 **[David AI – Zero Light (Low Resource Version)](https://github.com/david0154/David-zero-ai-light)**
+👉 **[David AI – Zero Light (Low Resource Version)](https://github.com/david0154/David-zero-ai-light-/)**
 
 **Features of Zero Light:**
 - Fully offline AI for coding + UI design
