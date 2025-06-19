@@ -1,4 +1,7 @@
-# 🤖 David AI – Zero David
+<p align="center">
+  <img src="logo.png" alt="David AI Zero Logo" width="200"/>
+</p>
+# 🤖 David AI – Zero 
 
 **Author:** David  
 **Email:** davidk76011@gmail.com  
