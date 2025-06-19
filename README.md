@@ -64,7 +64,7 @@ git clone https://github.com/david0154/David-zero-ai.git
 ```
 
 ```bash
-cd david_ai
+cd David-zero-ai
 ```
 
 ### 🔹 Step 2: Create a Virtual Environment (Windows)
